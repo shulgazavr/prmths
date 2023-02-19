@@ -6,7 +6,7 @@
 - диск;
 - сеть.
 
-Для выполнения задания, был написан [Vagrantfile](), создающий виртуальную машину и устанавлявающий на неё сервер `Prometheus`, `Node Exporter` и `Grafana`.
+Для выполнения задания, был написан [Vagrantfile](https://github.com/shulgazavr/prmths/blob/main/Vagrantfile), создающий виртуальную машину и устанавлявающий на неё сервер `Prometheus`, `Node Exporter` и `Grafana`.
 
 Для доступа к `Grafana`, в виртуальную машину прокидывается порт `3000`.
 
